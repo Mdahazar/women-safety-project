@@ -8,6 +8,7 @@ a new window will be opened,
 click on new file ,
 give your desired name ,
 copy all files from old window and paste it in folder of new window,
+now select index.html from copied file
 then click on f5,
 
 ![image](https://github.com/user-attachments/assets/26b711c6-09f7-409d-a2af-1e2c6bd97642)
